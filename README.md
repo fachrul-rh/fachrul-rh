@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **JavaScript Programming Language**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **JavaScript Programming Language** // **Journey Web Development**
+- 👯 I'm **eunthiastic coding**
 - 📫 How to reach me: **[fachrulstroid@gmail.com]**
 - ⚡ Fun fact: **learn new things**
 
@@ -23,3 +23,11 @@
 </a>
 </p>
 <br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/fachrul-rozi-772282187/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/faruulll/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
