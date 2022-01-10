@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/fachrul-rh/fachrul-rh/main/readme.gif)](https://github.com/fachrul-rh)
+<!-- If you want the template for my gif, please check https://github.com/adamalston -->
 ### Hi there 👋
 
 ## I'm Fachrul
