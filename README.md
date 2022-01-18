@@ -2,7 +2,7 @@
 <!-- If you want the template for my gif, please check https://github.com/adamalston -->
 ### Hi there 👋
 
-## I'm Fachrul
+## I'm Fachrul from Indonesia
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **JavaScript Programming Language** // **Journey Web Development**
