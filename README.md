@@ -22,7 +22,7 @@
 ## 💻 Front End Projects
 
 [![](https://img.shields.io/badge/-🏥%20HORI-64BC4B)](https://hori-app.netlify.app/)
-[![](https://img.shields.io/badge/-😀%20Emoji%20Searcher-333333)](https://github.com/fachrul-rh/emoji-searcher)
+[![](https://img.shields.io/badge/-😀%20Emoji%20Searcher-333333)](https://emoji-searcher.netlify.app/)
 
 
 ## 📊 My Github Stats
